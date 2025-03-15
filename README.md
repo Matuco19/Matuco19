@@ -50,6 +50,8 @@ Hey! I am a passionate developer with a keen interest in technology and coding. 
 
 [![rust-calculator](https://github-readme-stats.vercel.app/api/pin?username=Matuco19\&repo=rust-calculator\&theme=transparent)](https://github.com/Matuco19/rust-calculator) 
 
+[![github-roaster](https://github-readme-stats.vercel.app/api/pin?username=Matuco19\&repo=Github-Roaster\&theme=transparent)](https://github.com/Matuco19/Github-Roaster) 
+
 ### 🪪 Random Quote
 
 

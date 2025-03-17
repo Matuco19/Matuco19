@@ -34,7 +34,7 @@ Hey! I am a passionate developer with a keen interest in technology and coding. 
 
 [![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Matuco19&theme=transparent&show_icons=true&hide_border=true&layout=compact)](https://github.com/Matuco19)
 
-[![stats3](https://github-readme-stats.vercel.app/api/wakatime?username=Matuco19&layout=compact&langs_count=5&theme=transparent&hide=text,shell,powershell,bash,markdown)](https://github.com/Matuco19)
+[![stats3](https://github-readme-stats.vercel.app/api/wakatime?username=Matuco19&layout=compact&langs_count=5&theme=transparent)](https://github.com/Matuco19)
 
 [![views](https://komarev.com/ghpvc/?username=Matuco19&style=flat-square&color=blue)](https://github.com/Matuco19)
 [![wakatime](https://wakatime.com/badge/user/b9e360ea-9fbd-4493-b337-e47fc9736978.svg)](https://wakatime.com/@b9e360ea-9fbd-4493-b337-e47fc9736978)

@@ -40,6 +40,8 @@ Hey! I am a passionate developer with a keen interest in technology and coding. 
 [![wakatime](https://wakatime.com/badge/user/b9e360ea-9fbd-4493-b337-e47fc9736978.svg)](https://wakatime.com/@b9e360ea-9fbd-4493-b337-e47fc9736978)
 
 ![](https://github-contributor-stats.vercel.app/api?username=Matuco19&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+[![graph](https://github-readme-activity-graph.vercel.app/graph?username=Matuco19&bg_color=1c2129&color=00c8ff&line=57beff&point=171717&area=true&hide_border=true)](https://github.com/Matuco19)
 		
 </details>
 

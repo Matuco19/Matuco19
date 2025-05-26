@@ -1,11 +1,5 @@
 [
-    {
-        "url": "https://github.com/Matuco19/NNSPPackage"
-    },
-    {
-        "url": "https://github.com/Matuco19/NNSPPackageDep"
-    },
-    {
-        "url": "https://github.com/Matuco19/Corest"
-    }
+        "https://github.com/Matuco19/NNSPPackage",
+        "https://github.com/Matuco19/NNSPPackageDep",
+        "https://github.com/Matuco19/Corest"
 ]

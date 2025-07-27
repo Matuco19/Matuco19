@@ -4,15 +4,13 @@
 
 #### [Website](https://matuco19.com) | [How to find me](https://matuco19.com/links) | [Matuco19 Studio](https://github.com/Matuco19-Studio)
 
-
-Hey! I am a passionate developer with a keen interest in technology and coding. I love to explore new technologies and continuously improve my skills. I've always liked programming in the backend area but I have knowledge in frontend, I' always liked playing different games, especially sandbox and survival, I always try to learn more about other programming languages and frameworks. 
+Hey! I am a passionate developer with a keen interest in technology and coding. I love to explore new technologies and continuously improve my skills. I've always liked programming in the backend area but I have knowledge in frontend, i like to playing different games, especially sandbox and survival, and i want to learn more about other programming languages and frameworks. 
 
 ### 💣 About Me
 
 - 🌱 I’m ready to learn **new technologies**
 - 💡 I’m currently developing **WebQuasar** & **Neutronscript**
 - 📫 How to reach me: **[contact me](https://matuco19.com/links)**
-
 
 ### 🪄 General Developer Roadmap:
 
@@ -45,9 +43,6 @@ Hey! I am a passionate developer with a keen interest in technology and coding. 
 		
 </details>
 
-
-
-
 ### 💫 Actual Open-Source Project
 
 [![Commify](https://github-readme-stats.vercel.app/api/pin?username=Matuco19\&repo=Commify\&theme=transparent)](https://github.com/Matuco19/Commify) 
@@ -57,6 +52,5 @@ Hey! I am a passionate developer with a keen interest in technology and coding. 
 [![github-roaster](https://github-readme-stats.vercel.app/api/pin?username=Matuco19\&repo=Github-Roaster\&theme=transparent)](https://github.com/Matuco19/Github-Roaster) 
 
 ### 🪪 Random Quote
-
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)

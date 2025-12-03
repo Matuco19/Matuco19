@@ -29,6 +29,7 @@ Hey! I am a passionate developer with a keen interest in technology and coding. 
 <details><summary><h3>ℹ️Github Stats</h3></summary>
 
 [![stats](https://github-readme-stats.vercel.app/api?username=Matuco19&theme=transparent&show_icons=true&hide_border=true&count_private=true)](https://github.com/Matuco19)
+[![stats-alt](https://kasroudra-stats-card.onrender.com/user?user=Matuco19&theme=github_dark)](https://github.com/Matuco19)
 
 [![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Matuco19&theme=transparent&show_icons=true&hide_border=true&layout=compact)](https://github.com/Matuco19)
 

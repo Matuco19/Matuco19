@@ -7,7 +7,7 @@
 [![prof-views](https://komarev.com/ghpvc/?username=Matuco19&style=flat-square&color=blue)](https://github.com/Matuco19)
 [![wakatime](https://wakatime.com/badge/user/b9e360ea-9fbd-4493-b337-e47fc9736978.svg)](https://wakatime.com/@b9e360ea-9fbd-4493-b337-e47fc9736978)
 
-Hey! Im a passionate developer with a strong interest in technology and coding (currently mostly low-coding), always exploring new technologies and continuously improve skills.  
+Hey! Im a passionate developer with a strong interest in technology and coding (currently mostly low-level coding), always exploring new technologies and continuously improve skills.  
 Backend programming has always been a main focus, but with a solid knowledge in frontend as well. 
 Also interested in cybersecurity, including defensive and offensive concepts, OPSEC best practices, context engineering for AI systems, and building and managing homelab environments to experiment infrastructure, networking, automation, and security tools. 
 

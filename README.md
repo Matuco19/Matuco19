@@ -5,7 +5,7 @@
 #### [Website](https://matuco19.com) | [How to find me](https://matuco19.com/links) | [Matuco19 Studio](https://github.com/Matuco19-Studio)
 	
 [![prof-views](https://komarev.com/ghpvc/?username=Matuco19&style=flat-square&color=blue)](https://github.com/Matuco19)
-[![wakatime](https://wakatime.com/badge/user/b9e360ea-9fbd-4493-b337-e47fc9736978.svg)](https://wakatime.com/@b9e360ea-9fbd-4493-b337-e47fc9736978)
+[![wakatime](https://wakatime.com/badge/user/b9e360ea-9fbd-4493-b337-e47fc9736978.svg?style=flat-square&color=blue)](https://wakatime.com/@b9e360ea-9fbd-4493-b337-e47fc9736978)
 
 Hey! Im a passionate developer with a strong interest in technology and coding (currently mostly low-level coding), always exploring new technologies and continuously improve skills.  
 Backend programming has always been a main focus, but with a solid knowledge in frontend as well. 

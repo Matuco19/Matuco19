@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Matuco19!
 
 <!-- be nice -->
-
+	
 #### [Website](https://matuco19.com) | [How to find me](https://matuco19.com/links) | [Matuco19 Studio](https://github.com/Matuco19-Studio)
-
+	
 [![prof-views](https://komarev.com/ghpvc/?username=Matuco19&style=flat-square&color=blue)](https://github.com/Matuco19)
 [![wakatime](https://wakatime.com/badge/user/b9e360ea-9fbd-4493-b337-e47fc9736978.svg)](https://wakatime.com/@b9e360ea-9fbd-4493-b337-e47fc9736978)
 
@@ -19,6 +19,8 @@ Also interested in cybersecurity, including defensive and offensive concepts, OP
 
 ### 🪄 General Developer Roadmap:
 
+<kbd>
+
 - [x] Learn Scratch (03. Feb. 2018)
 - [x] Learn lua (13. Jan. 2020)
 - [x] Learn html, css and js (04. Jan 2022)
@@ -30,6 +32,7 @@ Also interested in cybersecurity, including defensive and offensive concepts, OP
 - [x] Learn Rust (04. Jan. 2025)
 - [ ] Learn C++ ()
 - [ ] Learn brainf*ck (never)
+</kbd>
 
 <details><summary><h3>ℹ️Github Stats</h3></summary>
 
@@ -60,4 +63,5 @@ Also interested in cybersecurity, including defensive and offensive concepts, OP
 
 ### 🪪 Random Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![random-quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+

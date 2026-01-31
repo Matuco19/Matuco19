@@ -30,6 +30,7 @@ Also interested in cybersecurity, including defensive and offensive concepts, OP
 - [x] Learn Unreal Engine (10. Dec. 2023)
 - [x] Learn React (28. Jun. 2024)
 - [x] Learn Rust (04. Jan. 2025)
+- [x] Learn Dart & Flutter (31. Jan. 2026)
 - [ ] Learn C++ ()
 - [ ] Learn brainf*ck (never)
 </kbd>

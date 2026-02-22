@@ -15,7 +15,7 @@ Also interested in cybersecurity, including defensive and offensive concepts, OP
 
 - [🌱] I'm ready to learn **new technologies**
 - [💡] I'm currently developing **MUA-API** & **Neutronscript**
-- [📫] How to reach me: **[contact me](https://matuco19.com/links)** | **[email](mailto:matuco19@tuta.io)** (or matuco19@tuta.io ; if you spam I will find you and your family (!!!))
+- [📫] How to reach me: **[contact me](https://matuco19.com/links)** | **[email](mailto:matuco19@tuta.io)** (or matuco19@tuta.io / if you spam i will find you and your family (!!!))
 
 ### 🪄 General Developer Roadmap:
 

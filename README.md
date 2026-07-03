@@ -67,3 +67,14 @@ Also interested in cybersecurity, including defensive and offensive concepts, OP
 
 ![random-quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### 💰 Donating
+
+If you enjoy my projects and would like to support their development, you can make a donation using **Monero (XMR)**. Every contribution helps me dedicate more time to maintaining existing projects and creating new open source software.
+
+- **Monero (XMR) Address:** 
+```text
+85hL5hPZzfWcLJg5kqakhsfUnMZQAeZRgJCXTHALtpizR6wrWBAsdQM6NnwQ6uPyZAaen8hJKUWw6MywthXGjwTn5CnDoVd
+```
+
+Thank you for your support! ❤️
+

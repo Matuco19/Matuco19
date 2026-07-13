@@ -14,7 +14,7 @@ Also interested in cybersecurity, including defensive and offensive concepts, OP
 ### 💣 About Me
 
 - [🌱] I'm ready to learn **new technologies**
-- [💡] I'm currently developing **Commify-rust** & **NeutronScript**
+- [💡] I'm currently developing **MTools** & **NeutronScript Language**
 - [📫] How to reach me: **[contact me](https://matuco19.com/links)** | **[email](mailto:contact.matuco19@proton.me)** (or contact.matuco19@proton.me / if you spam i will find you and your family (!!!))
 
 ### 🪄 General Developer Roadmap:
@@ -37,7 +37,6 @@ Also interested in cybersecurity, including defensive and offensive concepts, OP
 <details><summary><h3>ℹ️Github Stats</h3></summary>
 
 [![stats-alt-1](https://kasroudra-stats-card.onrender.com/user?user=Matuco19&theme=github_dark)](https://github.com/Matuco19)
-[![stats-alt-2](https://github-contributor-stats.vercel.app/api?username=Matuco19&limit=5&theme=transparent&combine_all_yearly_contributions=true)](https://github.com/Matuco19)
 
 <!-- this provider has issues, so i will just disable it for now
 [![stats-1](https://github-readme-stats.vercel.app/api?username=Matuco19&theme=transparent&show_icons=true&hide_border=true&count_private=true)](https://github.com/Matuco19)

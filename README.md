@@ -36,7 +36,7 @@ Also interested in cybersecurity, including defensive and offensive concepts, OP
 
 <details><summary><h3>ℹ️Github Stats</h3></summary>
 
-[![stats-alt-1](https://kasroudra-stats-card.onrender.com/user?user=Matuco19&theme=github_dark)](https://github.com/Matuco19)
+[![stats-alt-1](https://streak-stats.demolab.com?user=Matuco19&theme=transparent)](https://github.com/Matuco19)
 
 <!-- this provider has issues, so i will just disable it for now
 [![stats-1](https://github-readme-stats.vercel.app/api?username=Matuco19&theme=transparent&show_icons=true&hide_border=true&count_private=true)](https://github.com/Matuco19)
@@ -47,6 +47,14 @@ Also interested in cybersecurity, including defensive and offensive concepts, OP
 -->
 
 [![graph](https://github-readme-activity-graph.vercel.app/graph?username=Matuco19&bg_color=1c2129&color=00c8ff&line=57beff&point=171717&area=true&hide_border=true)](https://github.com/Matuco19)
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Matuco19&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Matuco19"
+  width="600"
+  height="300"
+/>
+</a>
 		
 </details>
 

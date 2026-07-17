@@ -9,13 +9,13 @@
 
 Hey! Im a passionate developer with a strong interest in technology and coding (currently mostly low-level coding), always exploring new technologies and continuously improve skills.  
 Backend programming has always been a main focus, but with a solid knowledge in frontend as well. 
-Also interested in cybersecurity, including defensive and offensive concepts, OPSEC best practices, context engineering for AI systems, and building and managing homelab environments to experiment infrastructure, networking, automation, and security tools. 
+Also interested in cybersecurity, including defensive and offensive concepts, OPSEC & InfoSec best practices, context engineering for AI systems, and building and managing homelab environments to experiment infrastructure, networking, automation, and security tools. 
 
 ### 💣 About Me
 
 - [🌱] I'm ready to learn **new technologies**
 - [💡] I'm currently developing **MTools** & **NeutronScript Language**
-- [📫] How to reach me: **[contact me](https://matuco19.com/links)** | **[email](mailto:contact.matuco19@proton.me)** (or contact.matuco19@proton.me / if you spam i will find you and your family (!!!))
+- [📫] How to reach me: **[contact me](https://matuco19.com/links)** | **[matrix](https://matrix.to/#/@matuco19:matrix.org)** | **contact.matuco19@proton.me** (if you spam i will find you and your family (!!!))
 
 ### 🪄 General Developer Roadmap:
 
@@ -84,4 +84,3 @@ If you enjoy my projects and would like to support their development, you can ma
 ```
 
 Thank you for your support! ❤️
-

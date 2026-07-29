@@ -2,7 +2,7 @@
 
 <!-- be nice -->
 	
-#### [Website](https://matuco19.com) | [How to find me](https://matuco19.com/links) | [Matuco19 Studio](https://github.com/Matuco19-Studio)
+#### [Website](https://matuco19.com) | [How to find me](https://matuco19.com/links) | [My Posts](https://matuco19.com/posts)
 	
 [![prof-views](https://komarev.com/ghpvc/?username=Matuco19&style=flat-square&color=blue)](https://github.com/Matuco19)
 [![wakatime](https://wakatime.com/badge/user/b9e360ea-9fbd-4493-b337-e47fc9736978.svg?style=flat-square&color=blue)](https://wakatime.com/@b9e360ea-9fbd-4493-b337-e47fc9736978)
@@ -14,7 +14,7 @@ Also interested in cybersecurity, including defensive and offensive concepts, OP
 ### 💣 About Me
 
 - [🌱] I'm ready to learn **new technologies** & **new concepts**
-- [💡] I'm currently developing **MTools**, **Project Himemori** & **NeutronScript Lang**
+- [💡] I'm currently developing **MTools**
 - [📫] How to reach me: **[contact me](https://matuco19.com/links)** | **[matrix](https://matrix.to/#/@matuco19:matrix.org)** | **contact.matuco19@proton.me** (if you spam i will find you and your family (!!!))
 
 ### 🪄 General Developer Roadmap:

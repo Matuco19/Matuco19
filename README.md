@@ -3,9 +3,11 @@
 <!-- be nice -->
 	
 #### [Website](https://matuco19.com) | [How to find me](https://matuco19.com/links) | [My Posts](https://matuco19.com/posts)
-	
+
+<!--
 [![prof-views](https://komarev.com/ghpvc/?username=Matuco19&style=flat-square&color=blue)](https://github.com/Matuco19)
 [![wakatime](https://wakatime.com/badge/user/b9e360ea-9fbd-4493-b337-e47fc9736978.svg?style=flat-square&color=blue)](https://wakatime.com/@b9e360ea-9fbd-4493-b337-e47fc9736978)
+-->
 
 Hey! Im a passionate developer with a strong interest in technology and coding (currently mostly low-level coding), always exploring new technologies and continuously improve skills.  
 Backend programming has always been a main focus, but with a solid knowledge in frontend as well. 
@@ -14,7 +16,7 @@ Also interested in cybersecurity, including defensive and offensive concepts, OP
 ### 💣 About Me
 
 - [🌱] I'm ready to learn **new technologies** & **new concepts**
-- [💡] I'm currently developing **MTools**
+- [💡] I'm currently engaged in **Cybersecurity**
 - [📫] How to reach me: **[contact me](https://matuco19.com/links)** | **[matrix](https://matrix.to/#/@matuco19:matrix.org)** | **contact.matuco19@proton.me** (if you spam i will find you and your family (!!!))
 
 ### 🪄 General Developer Roadmap:
@@ -43,10 +45,10 @@ Also interested in cybersecurity, including defensive and offensive concepts, OP
 
 [![stats-2](https://github-readme-stats.vercel.app/api/top-langs/?username=Matuco19&theme=transparent&show_icons=true&hide_border=true&layout=compact)](https://github.com/Matuco19)
 
-[![stats-3](https://github-readme-stats.vercel.app/api/wakatime?username=Matuco19&layout=compact&langs_count=5&theme=transparent)](https://github.com/Matuco19)
+[![graph](https://github-readme-activity-graph.vercel.app/graph?username=Matuco19&bg_color=1c2129&color=00c8ff&line=57beff&point=171717&area=true&hide_border=true)](https://github.com/Matuco19)
 -->
 
-[![graph](https://github-readme-activity-graph.vercel.app/graph?username=Matuco19&bg_color=1c2129&color=00c8ff&line=57beff&point=171717&area=true&hide_border=true)](https://github.com/Matuco19)
+[![stats-3](https://github-readme-stats.vercel.app/api/wakatime?username=Matuco19&layout=compact&langs_count=5&theme=transparent)](https://github.com/Matuco19)
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Matuco19&utm_content=farm">
 <img

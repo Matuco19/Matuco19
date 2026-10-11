@@ -16,7 +16,7 @@ Also interested in cybersecurity, including defensive and offensive concepts, OP
 ### 💣 About Me
 
 - [🌱] I'm ready to learn **new technologies** & **new concepts**
-- [💡] I'm currently engaged in **Cybersecurity**
+- [💡] I'm currently interested in **Cybersecurity**
 - [📫] How to reach me: **[contact me](https://matuco19.com/links)** | **[matrix](https://matrix.to/#/@matuco19:matrix.org)** | **contact.matuco19@proton.me** (if you spam i will find you and your family (!!!))
 
 ### 🪄 General Developer Roadmap:
